@@ -1,5 +1,5 @@
 # RickAI
-RickAI is a Facebook Messenger chatbot that uses AI to generate quotes/advice based on a character named Rick from the TV show 'Rick and Morty'.  
+RickAI is a Facebook Messenger chatbot that uses AI to generate quotes/advice based on a character named Rick from the TV show 'Rick and Morty.'  
 <img src="https://github.com/Aayushya1604/RickAI/blob/master/images/rick_logo.png" align="left" width="300">
  
 
