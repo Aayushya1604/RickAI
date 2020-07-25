@@ -4,9 +4,9 @@ RickAI is a Facebook Messenger chatbot that uses AI to generate quotes/advice ba
  
 
 ## Inspiration
-After catching up with the latest season of the show, I was not happy to hear that
+After catching up with the latest season of the show, I was sad to hear that
 I'll have to wait a while for the next season. So I decided to create a simple chatbot that generates quotes/advice based on one
-of the shows' scientist's previous dialogs. It helps fill the void.
+of the shows' scientist's previous dialogs. 
  
 
 
